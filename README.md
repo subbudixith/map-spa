@@ -1,4 +1,5 @@
 # MAP SPA #
+Basic Map View with Autocomplete feature with few quick links
 
 ###  README ### 
 
@@ -18,6 +19,9 @@ This README would normally document whatever steps are necessary to get your app
 * Redux & Redux Thunk
 * Material UI
 * Leaflet
+
+### Documentation ? ###
+* JSDOC
 
 ### What can be Enhanced? ###
 * Get Directions
