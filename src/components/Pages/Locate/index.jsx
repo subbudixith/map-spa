@@ -16,7 +16,7 @@ import Search from "react-leaflet-search";
 import { useDispatch, useSelector } from "react-redux";
 import { visitorIcon } from "../../../constants";
 import { updateLocation } from "../../../store/App/app.actions";
-import "./index.css";
+import "./index.scss";
 
 const provider = new OpenStreetMapProvider();
 const defaultCenter = [1.2858644, 103.85254594021382];

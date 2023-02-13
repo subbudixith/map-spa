@@ -13,6 +13,7 @@
     "leaflet": "^1.9.3",
     "leaflet-geosearch": "^3.7.0",
     "lodash": "^4.17.21",
+    "node-sass": "^8.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-leaflet": "^2.7.0",
@@ -32,9 +33,9 @@
     "docs": "jsdoc -c jsdoc.config.json"
   },
   "devDependencies": {
-    "react-scripts": "latest",
     "better-docs": "^2.7.2",
-    "jsdoc": "^4.0.0"
+    "jsdoc": "^4.0.0",
+    "react-scripts": "latest"
   },
   "browserslist": {
     "production": [

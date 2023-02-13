@@ -18,6 +18,8 @@ This README would normally document whatever steps are necessary to get your app
 * React
 * Redux & Redux Thunk
 * Material UI
+* SASS pre-processor
+* ES6 & AJAX
 * Leaflet
 
 ### Documentation ? ###

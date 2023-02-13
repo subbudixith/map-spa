@@ -3,7 +3,7 @@ import { ThemeProvider } from "@mui/material/styles";
 import "leaflet/dist/leaflet.css";
 import * as React from "react";
 import ReactDOM from "react-dom";
-import "./assets/styles/index.css";
+import "./assets/styles/index.scss";
 import Boot from "./boot";
 import theme from "./config/theme";
 
